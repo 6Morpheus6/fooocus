@@ -59,11 +59,6 @@
       }
     }
   }, {
-    "method": "fs.link",
-    "params": {
-      "venv": "app/env"
-    }
-  }, {
     "method": "notify",
     "params": {
       "html": "App launched. Click 'start' to get started"
